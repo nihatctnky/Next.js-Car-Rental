@@ -7,15 +7,15 @@ Ayrıca, platform, kullanıcı dostu bir arayüz ve mobil uyumlu tasarımı ile 
 
 ## Teknolojiler
 
-* Next.js**: React tabanlı framework, SSR (Server Side Rendering) ve SSG (Static Site Generation) özellikleri.
+* Next.js: React tabanlı framework, SSR (Server Side Rendering) ve SSG (Static Site Generation) özellikleri.
   
-* MongoDB**: Veritabanı, araç bilgilerini ve siparişleri depolamak için kullanılır.
+* MongoDB: Veritabanı, araç bilgilerini ve siparişleri depolamak için kullanılır.
   
-* Mongoose**: MongoDB için Object Data Modeling (ODM) kütüphanesi.
+* Mongoose: MongoDB için Object Data Modeling (ODM) kütüphanesi.
 
-* Tailwind CSS**: Stil ve düzen için kullanılan CSS framework'ü.
+* Tailwind CSS: Stil ve düzen için kullanılan CSS framework'ü.
 
-* React Icons**: Uygulama içerisinde ikonlar kullanmak için.
+* React Icons: Uygulama içerisinde ikonlar kullanmak için.
 
 
 ## Ekran Gif
