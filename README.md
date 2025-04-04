@@ -19,3 +19,5 @@ Ayrıca, platform, kullanıcı dostu bir arayüz ve mobil uyumlu tasarımı ile 
 
 
 ## Ekran Gif
+
+![Video Screen1743805915428 (1)](https://github.com/user-attachments/assets/854ad84b-49ae-4c28-a203-6a610bd9837f)
